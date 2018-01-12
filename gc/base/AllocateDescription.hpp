@@ -23,6 +23,9 @@
 #if !defined(ALLOCATEDESCRIPTION_HPP_)
 #define ALLOCATEDESCRIPTION_HPP_
 
+#include "omrgcconsts.h"
+#include "GCExtensionsBase.hpp"
+#include "EnvironmentBase.hpp"
 #include "omrcfg.h"
 #include "omrcomp.h"
 #include "modronbase.h"

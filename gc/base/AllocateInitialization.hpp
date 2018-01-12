@@ -23,9 +23,10 @@
 #if !defined(ALLOCATEINITIALIZATION_HPP_)
 #define ALLOCATEINITIALIZATION_HPP_
 
+#include <omrgcconsts.h>
+
 #include "ModronAssertions.h"
 #include "objectdescription.h"
-#include "omrgcconsts.h"
 #include "omrmodroncore.h"
 #include "omrutil.h"
 
